@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tinderlike TicTacToe</string>
+    <string name="login">Log In</string>
+    <string name="username">Username</string>
+    <string name="name">Name:</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="trophies">Trophies</string>
+    <string name="play">Play</string>
+    <string name="practice">Practice</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="users_online">Users online:</string>
+    <string name="top_players">Top players</string>
+    <string name="pick_mode">Choose a game mode</string>
+    <string-array name="modes_array">
+        <item>Easy</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="server_msg">Server says:</string>
+    <string name="try_again">Already playing a game.\nTry again later</string>
+    <string name="not_now">Don\'t want to play with you</string>
+    <string name="too_far">You are too far, come closer</string>
+
+</resources>
